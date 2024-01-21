@@ -1,1 +1,1 @@
-created a music app using gtml css and javascript
+created a music app using HTML,CSS and javascript.
